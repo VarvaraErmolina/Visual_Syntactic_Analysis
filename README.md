@@ -1,0 +1,17 @@
+This is a tool for working with a corpus of syntactically annotated Russian texts.
+
+In the project root, create `.env` with:
+
+DATABASE_URL=postgresql+psycopg://postgres:YOUR_PASSWORD@YOUR_SERVER_IP:5432/russian_authors
+
+In the `Frontend` folder, create `.env` with:
+
+VITE_API_BASE_URL=http://YOUR_SERVER_IP:8000
+
+To run the project, open a terminal in the project root (where `docker-compose.yml` is located) and execute:
+
+docker compose up --build
+
+To stop the containers, run:
+
+docker compose down
