@@ -1,0 +1,20 @@
+version: "3.9"
+
+services:
+  backend:
+    build: ./backend
+    container_name: diploma_backend
+    restart: always
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build: ./frontend
+    container_name: diploma_frontend
+    restart: always
+    depends_on:
+      - backend
+    ports:
+      - "8080:80"
