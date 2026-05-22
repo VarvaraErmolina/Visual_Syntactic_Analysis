@@ -573,7 +573,7 @@ function resetForm() {
                     <div>
                       <div class="author-summary-title">
                         {{ author.author_name }}
-                        — {{ Number(author.count).toLocaleString('ru-RU') }} примеров
+                        — примеров: {{ Number(author.count).toLocaleString('ru-RU') }}
                       </div>
 
                       <div class="author-summary-subtitle">
@@ -666,7 +666,7 @@ function resetForm() {
               <h4 class="text-subtitle-2 mb-3">
                 {{ selectedAuthor.author_name }}
                 <span v-if="examplesTotal">
-                  — {{ Number(examplesTotal).toLocaleString('ru-RU') }} примеров
+                  — примеров: {{ Number(examplesTotal).toLocaleString('ru-RU') }}
                 </span>
               </h4>
 
