@@ -5,6 +5,7 @@ It contains:
 - JSON files used to build the charts discussed in the analytical chapter of the thesis and the Jupyter notebook notebook reproducing them in an interactive format (folder *Analysis*)
 
 **Implementing the tool**
+
 In the project root, create `.env` with:
 
 ```DATABASE_URL=postgresql+psycopg://postgres:YOUR_PASSWORD@YOUR_SERVER_IP:5432/russian_authors```
