@@ -1,0 +1,467 @@
+{
+    "chart_type": "entity_timeline",
+    "graph_mode": "entity_timeline",
+    "entity_type": "genre",
+    "source": "document_metrics",
+    "summary": {
+        "sentences_count": 4249360,
+        "authors_count": 109,
+        "documents_count": 538,
+        "mean": 4.056627586271815,
+        "median": 4.057613514783911,
+        "min": 2.584175809605887,
+        "max": 6.853697749196142
+    },
+    "data": {
+        "line": [
+            {
+                "decade": 1830,
+                "period": "1830-е",
+                "mean": 4.519459198454853,
+                "count": 5,
+                "documents_count": 5,
+                "authors_count": 2
+            },
+            {
+                "decade": 1840,
+                "period": "1840-е",
+                "mean": 4.295436119986647,
+                "count": 2,
+                "documents_count": 2,
+                "authors_count": 2
+            },
+            {
+                "decade": 1850,
+                "period": "1850-е",
+                "mean": 5.281962596798384,
+                "count": 7,
+                "documents_count": 7,
+                "authors_count": 3
+            },
+            {
+                "decade": 1860,
+                "period": "1860-е",
+                "mean": 4.6690676633946975,
+                "count": 15,
+                "documents_count": 15,
+                "authors_count": 5
+            },
+            {
+                "decade": 1870,
+                "period": "1870-е",
+                "mean": 4.9725322149899975,
+                "count": 10,
+                "documents_count": 10,
+                "authors_count": 5
+            },
+            {
+                "decade": 1880,
+                "period": "1880-е",
+                "mean": 4.02595136181703,
+                "count": 19,
+                "documents_count": 19,
+                "authors_count": 4
+            },
+            {
+                "decade": 1890,
+                "period": "1890-е",
+                "mean": 4.250135494131549,
+                "count": 9,
+                "documents_count": 9,
+                "authors_count": 4
+            },
+            {
+                "decade": 1900,
+                "period": "1900-е",
+                "mean": 3.8492898660601464,
+                "count": 14,
+                "documents_count": 14,
+                "authors_count": 7
+            },
+            {
+                "decade": 1910,
+                "period": "1910-е",
+                "mean": 3.9950943451985164,
+                "count": 12,
+                "documents_count": 12,
+                "authors_count": 8
+            },
+            {
+                "decade": 1920,
+                "period": "1920-е",
+                "mean": 4.052971373584682,
+                "count": 36,
+                "documents_count": 36,
+                "authors_count": 15
+            },
+            {
+                "decade": 1930,
+                "period": "1930-е",
+                "mean": 3.7296556603267956,
+                "count": 27,
+                "documents_count": 27,
+                "authors_count": 14
+            },
+            {
+                "decade": 1940,
+                "period": "1940-е",
+                "mean": 3.7524390481699825,
+                "count": 27,
+                "documents_count": 27,
+                "authors_count": 20
+            },
+            {
+                "decade": 1950,
+                "period": "1950-е",
+                "mean": 4.113131697616338,
+                "count": 27,
+                "documents_count": 27,
+                "authors_count": 15
+            },
+            {
+                "decade": 1960,
+                "period": "1960-е",
+                "mean": 3.8942952645884517,
+                "count": 50,
+                "documents_count": 50,
+                "authors_count": 23
+            },
+            {
+                "decade": 1970,
+                "period": "1970-е",
+                "mean": 3.9566911611375146,
+                "count": 45,
+                "documents_count": 45,
+                "authors_count": 19
+            },
+            {
+                "decade": 1980,
+                "period": "1980-е",
+                "mean": 4.274786349387439,
+                "count": 39,
+                "documents_count": 39,
+                "authors_count": 16
+            },
+            {
+                "decade": 1990,
+                "period": "1990-е",
+                "mean": 4.080234839028271,
+                "count": 42,
+                "documents_count": 42,
+                "authors_count": 18
+            },
+            {
+                "decade": 2000,
+                "period": "2000-е",
+                "mean": 4.088401118215861,
+                "count": 63,
+                "documents_count": 63,
+                "authors_count": 29
+            },
+            {
+                "decade": 2010,
+                "period": "2010-е",
+                "mean": 4.2126287292497935,
+                "count": 56,
+                "documents_count": 56,
+                "authors_count": 30
+            },
+            {
+                "decade": 2020,
+                "period": "2020-е",
+                "mean": 3.8922118152752168,
+                "count": 33,
+                "documents_count": 33,
+                "authors_count": 15
+            }
+        ],
+        "points": [
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Роман-эпопея",
+                "decade": 1860,
+                "period": "1860-е",
+                "mean": 4.800723748773307,
+                "count": 4,
+                "documents_count": 4,
+                "authors_count": 1,
+                "year_min": 1865,
+                "year_max": 1869
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Статья",
+                "decade": 1860,
+                "period": "1860-е",
+                "mean": 5.403020217141695,
+                "count": 10,
+                "documents_count": 10,
+                "authors_count": 7,
+                "year_min": 1841,
+                "year_max": 1982
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Эпистолярный",
+                "decade": 1870,
+                "period": "1870-е",
+                "mean": 4.072569663555748,
+                "count": 18,
+                "documents_count": 18,
+                "authors_count": 9,
+                "year_min": 1860,
+                "year_max": 1990
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Путевые заметки",
+                "decade": 1880,
+                "period": "1880-е",
+                "mean": 4.918514815488093,
+                "count": 4,
+                "documents_count": 4,
+                "authors_count": 4,
+                "year_min": 1883,
+                "year_max": 2000
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Сатира",
+                "decade": 1880,
+                "period": "1880-е",
+                "mean": 4.022261217500403,
+                "count": 11,
+                "documents_count": 11,
+                "authors_count": 4,
+                "year_min": 1870,
+                "year_max": 2007
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Научная фантастика",
+                "decade": 1920,
+                "period": "1920-е",
+                "mean": 3.9173666168247663,
+                "count": 28,
+                "documents_count": 28,
+                "authors_count": 7,
+                "year_min": 1925,
+                "year_max": 2019
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Рассказ",
+                "decade": 1920,
+                "period": "1920-е",
+                "mean": 3.9550488527344267,
+                "count": 77,
+                "documents_count": 77,
+                "authors_count": 31,
+                "year_min": 1849,
+                "year_max": 2025
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Пьеса",
+                "decade": 1940,
+                "period": "1940-е",
+                "mean": 2.844800135501355,
+                "count": 7,
+                "documents_count": 7,
+                "authors_count": 6,
+                "year_min": 1883,
+                "year_max": 1982
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Автобиография",
+                "decade": 1960,
+                "period": "1960-е",
+                "mean": 4.218899890365904,
+                "count": 15,
+                "documents_count": 15,
+                "authors_count": 6,
+                "year_min": 1856,
+                "year_max": 1994
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Повесть",
+                "decade": 1960,
+                "period": "1960-е",
+                "mean": 3.8151129601130447,
+                "count": 66,
+                "documents_count": 66,
+                "authors_count": 28,
+                "year_min": 1852,
+                "year_max": 2009
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Антиутопия",
+                "decade": 1970,
+                "period": "1970-е",
+                "mean": 4.131073588709677,
+                "count": 4,
+                "documents_count": 4,
+                "authors_count": 3,
+                "year_min": 1968,
+                "year_max": 1987
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Сказка",
+                "decade": 1970,
+                "period": "1970-е",
+                "mean": 3.834488047387349,
+                "count": 33,
+                "documents_count": 33,
+                "authors_count": 11,
+                "year_min": 1884,
+                "year_max": 2004
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Учебная литература",
+                "decade": 1980,
+                "period": "1980-е",
+                "mean": 5.593590677348871,
+                "count": 14,
+                "documents_count": 14,
+                "authors_count": 9,
+                "year_min": 1924,
+                "year_max": 2023
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Детектив",
+                "decade": 1990,
+                "period": "1990-е",
+                "mean": 4.023363585828843,
+                "count": 26,
+                "documents_count": 26,
+                "authors_count": 6,
+                "year_min": 1969,
+                "year_max": 2009
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Эссе",
+                "decade": 1990,
+                "period": "1990-е",
+                "mean": 5.26968290796597,
+                "count": 7,
+                "documents_count": 7,
+                "authors_count": 4,
+                "year_min": 1975,
+                "year_max": 2020
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Любовный роман",
+                "decade": 2000,
+                "period": "2000-е",
+                "mean": 3.9920038326850467,
+                "count": 9,
+                "documents_count": 9,
+                "authors_count": 9,
+                "year_min": 1992,
+                "year_max": 2019
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Монография",
+                "decade": 2000,
+                "period": "2000-е",
+                "mean": 5.546801638804988,
+                "count": 18,
+                "documents_count": 18,
+                "authors_count": 12,
+                "year_min": 1872,
+                "year_max": 2011
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Фантастика",
+                "decade": 2000,
+                "period": "2000-е",
+                "mean": 4.001167985095933,
+                "count": 46,
+                "documents_count": 46,
+                "authors_count": 13,
+                "year_min": 1925,
+                "year_max": 2024
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Юмор",
+                "decade": 2000,
+                "period": "2000-е",
+                "mean": 3.442126753062311,
+                "count": 8,
+                "documents_count": 8,
+                "authors_count": 2,
+                "year_min": 1908,
+                "year_max": 2012
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Научно-популярная литература",
+                "decade": 2010,
+                "period": "2010-е",
+                "mean": 5.089534279541663,
+                "count": 8,
+                "documents_count": 8,
+                "authors_count": 5,
+                "year_min": 1980,
+                "year_max": 2024
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Роман",
+                "decade": 2010,
+                "period": "2010-е",
+                "mean": 4.119360343341761,
+                "count": 103,
+                "documents_count": 103,
+                "authors_count": 38,
+                "year_min": 1833,
+                "year_max": 2024
+            },
+            {
+                "entity_type": "genre",
+                "entity_id": null,
+                "entity_name": "Фэнтези",
+                "decade": 2020,
+                "period": "2020-е",
+                "mean": 3.925437962756199,
+                "count": 22,
+                "documents_count": 22,
+                "authors_count": 8,
+                "year_min": 1926,
+                "year_max": 2024
+            }
+        ]
+    }
+}

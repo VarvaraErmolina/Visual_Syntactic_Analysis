@@ -1,0 +1,157 @@
+{
+    "chart_type": "line",
+    "graph_mode": "grouped_mean",
+    "group_by": "decade",
+    "source": "document_metrics",
+    "summary": {
+        "sentences_count": 4249360,
+        "authors_count": 109,
+        "documents_count": 538,
+        "mean": 4.056627586271815,
+        "median": 4.057613514783911,
+        "min": 2.584175809605887,
+        "max": 6.853697749196142
+    },
+    "data": [
+        {
+            "period": "1830-е",
+            "decade": 1830,
+            "mean": 4.519459198454853,
+            "count": 10355,
+            "documents_count": 5
+        },
+        {
+            "period": "1840-е",
+            "decade": 1840,
+            "mean": 4.295436119986647,
+            "count": 20969,
+            "documents_count": 2
+        },
+        {
+            "period": "1850-е",
+            "decade": 1850,
+            "mean": 5.281962596798384,
+            "count": 32671,
+            "documents_count": 7
+        },
+        {
+            "period": "1860-е",
+            "decade": 1860,
+            "mean": 4.6690676633946975,
+            "count": 143135,
+            "documents_count": 15
+        },
+        {
+            "period": "1870-е",
+            "decade": 1870,
+            "mean": 4.9725322149899975,
+            "count": 98479,
+            "documents_count": 10
+        },
+        {
+            "period": "1880-е",
+            "decade": 1880,
+            "mean": 4.02595136181703,
+            "count": 230354,
+            "documents_count": 19
+        },
+        {
+            "period": "1890-е",
+            "decade": 1890,
+            "mean": 4.250135494131549,
+            "count": 112551,
+            "documents_count": 9
+        },
+        {
+            "period": "1900-е",
+            "decade": 1900,
+            "mean": 3.8492898660601464,
+            "count": 197850,
+            "documents_count": 14
+        },
+        {
+            "period": "1910-е",
+            "decade": 1910,
+            "mean": 3.9950943451985164,
+            "count": 135354,
+            "documents_count": 12
+        },
+        {
+            "period": "1920-е",
+            "decade": 1920,
+            "mean": 4.052971373584682,
+            "count": 235901,
+            "documents_count": 36
+        },
+        {
+            "period": "1930-е",
+            "decade": 1930,
+            "mean": 3.7296556603267956,
+            "count": 279869,
+            "documents_count": 27
+        },
+        {
+            "period": "1940-е",
+            "decade": 1940,
+            "mean": 3.7524390481699825,
+            "count": 307702,
+            "documents_count": 27
+        },
+        {
+            "period": "1950-е",
+            "decade": 1950,
+            "mean": 4.113131697616338,
+            "count": 257461,
+            "documents_count": 27
+        },
+        {
+            "period": "1960-е",
+            "decade": 1960,
+            "mean": 3.8942952645884517,
+            "count": 313827,
+            "documents_count": 50
+        },
+        {
+            "period": "1970-е",
+            "decade": 1970,
+            "mean": 3.9566911611375146,
+            "count": 321297,
+            "documents_count": 45
+        },
+        {
+            "period": "1980-е",
+            "decade": 1980,
+            "mean": 4.274786349387439,
+            "count": 191083,
+            "documents_count": 39
+        },
+        {
+            "period": "1990-е",
+            "decade": 1990,
+            "mean": 4.080234839028271,
+            "count": 364505,
+            "documents_count": 42
+        },
+        {
+            "period": "2000-е",
+            "decade": 2000,
+            "mean": 4.088401118215861,
+            "count": 383468,
+            "documents_count": 63
+        },
+        {
+            "period": "2010-е",
+            "decade": 2010,
+            "mean": 4.2126287292497935,
+            "count": 311021,
+            "documents_count": 56
+        },
+        {
+            "period": "2020-е",
+            "decade": 2020,
+            "mean": 3.8922118152752168,
+            "count": 301508,
+            "documents_count": 33
+        }
+    ]
+}

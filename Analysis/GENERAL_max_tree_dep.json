@@ -1,0 +1,177 @@
+{
+    "chart_type": "histogram",
+    "graph_mode": "distribution",
+    "group_by": "none",
+    "source": "sentence_metrics",
+    "summary": {
+        "sentences_count": 4249360,
+        "mean": 4.056627586271815,
+        "median": 4.0,
+        "min": 1,
+        "max": 47,
+        "authors_count": 109,
+        "documents_count": 538
+    },
+    "data": [
+        {
+            "label": "1",
+            "value": 1,
+            "count": 6646
+        },
+        {
+            "label": "2",
+            "value": 2,
+            "count": 765545
+        },
+        {
+            "label": "3",
+            "value": 3,
+            "count": 1140298
+        },
+        {
+            "label": "4",
+            "value": 4,
+            "count": 950716
+        },
+        {
+            "label": "5",
+            "value": 5,
+            "count": 624889
+        },
+        {
+            "label": "6",
+            "value": 6,
+            "count": 366389
+        },
+        {
+            "label": "7",
+            "value": 7,
+            "count": 197153
+        },
+        {
+            "label": "8",
+            "value": 8,
+            "count": 100603
+        },
+        {
+            "label": "9",
+            "value": 9,
+            "count": 49572
+        },
+        {
+            "label": "10",
+            "value": 10,
+            "count": 24170
+        },
+        {
+            "label": "11",
+            "value": 11,
+            "count": 11783
+        },
+        {
+            "label": "12",
+            "value": 12,
+            "count": 5777
+        },
+        {
+            "label": "13",
+            "value": 13,
+            "count": 2824
+        },
+        {
+            "label": "14",
+            "value": 14,
+            "count": 1429
+        },
+        {
+            "label": "15",
+            "value": 15,
+            "count": 746
+        },
+        {
+            "label": "16",
+            "value": 16,
+            "count": 369
+        },
+        {
+            "label": "17",
+            "value": 17,
+            "count": 194
+        },
+        {
+            "label": "18",
+            "value": 18,
+            "count": 123
+        },
+        {
+            "label": "19",
+            "value": 19,
+            "count": 56
+        },
+        {
+            "label": "20",
+            "value": 20,
+            "count": 33
+        },
+        {
+            "label": "21",
+            "value": 21,
+            "count": 20
+        },
+        {
+            "label": "22",
+            "value": 22,
+            "count": 7
+        },
+        {
+            "label": "23",
+            "value": 23,
+            "count": 6
+        },
+        {
+            "label": "24",
+            "value": 24,
+            "count": 1
+        },
+        {
+            "label": "25",
+            "value": 25,
+            "count": 2
+        },
+        {
+            "label": "26",
+            "value": 26,
+            "count": 2
+        },
+        {
+            "label": "27",
+            "value": 27,
+            "count": 1
+        },
+        {
+            "label": "28",
+            "value": 28,
+            "count": 2
+        },
+        {
+            "label": "30",
+            "value": 30,
+            "count": 1
+        },
+        {
+            "label": "33",
+            "value": 33,
+            "count": 1
+        },
+        {
+            "label": "39",
+            "value": 39,
+            "count": 1
+        },
+        {
+            "label": "47",
+            "value": 47,
+            "count": 1
+        }
+    ]
+}

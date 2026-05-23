@@ -1,0 +1,998 @@
+{
+    "chart_type": "bar",
+    "graph_mode": "grouped_mean",
+    "group_by": "author",
+    "source": "document_metrics",
+    "summary": {
+        "sentences_count": 4249360,
+        "authors_count": 109,
+        "documents_count": 538,
+        "mean": 4.056627586271815,
+        "median": 4.057613514783911,
+        "min": 2.584175809605887,
+        "max": 6.853697749196142
+    },
+    "data": [
+        {
+            "group_id": 22,
+            "group": "Антон Чехов",
+            "mean": 3.574981311740241,
+            "count": 199323,
+            "documents_count": 10,
+            "year_min": 1880,
+            "year_max": 1902
+        },
+        {
+            "group_id": 18,
+            "group": "Кир Булычев",
+            "mean": 3.901084561112826,
+            "count": 184683,
+            "documents_count": 11,
+            "year_min": 1971,
+            "year_max": 1998
+        },
+        {
+            "group_id": 96,
+            "group": "Лев Толстой",
+            "mean": 4.297918853288783,
+            "count": 161017,
+            "documents_count": 16,
+            "year_min": 1852,
+            "year_max": 1970
+        },
+        {
+            "group_id": 51,
+            "group": "Валентин Катаев",
+            "mean": 3.6992616876497975,
+            "count": 145196,
+            "documents_count": 9,
+            "year_min": 1929,
+            "year_max": 1955
+        },
+        {
+            "group_id": 28,
+            "group": "Федор Достоевский",
+            "mean": 4.566243882515116,
+            "count": 137107,
+            "documents_count": 14,
+            "year_min": 1860,
+            "year_max": 1880
+        },
+        {
+            "group_id": 65,
+            "group": "Дмитрий Мамин-Сибиряк",
+            "mean": 4.311964230893362,
+            "count": 127037,
+            "documents_count": 10,
+            "year_min": 1883,
+            "year_max": 1906
+        },
+        {
+            "group_id": 17,
+            "group": "Михаил Булгаков",
+            "mean": 3.525487894350697,
+            "count": 102225,
+            "documents_count": 8,
+            "year_min": 1919,
+            "year_max": 1935
+        },
+        {
+            "group_id": 108,
+            "group": "Михаил Зощенко",
+            "mean": 3.8007266300078553,
+            "count": 101840,
+            "documents_count": 7,
+            "year_min": 1919,
+            "year_max": 1953
+        },
+        {
+            "group_id": 57,
+            "group": "Александр Куприн",
+            "mean": 4.408532664609053,
+            "count": 93312,
+            "documents_count": 9,
+            "year_min": 1893,
+            "year_max": 1932
+        },
+        {
+            "group_id": 61,
+            "group": "Сергей Лукьяненко",
+            "mean": 3.657213437659836,
+            "count": 91891,
+            "documents_count": 8,
+            "year_min": 2002,
+            "year_max": 2023
+        },
+        {
+            "group_id": 52,
+            "group": "Вениамин Каверин",
+            "mean": 4.278366094761959,
+            "count": 88010,
+            "documents_count": 13,
+            "year_min": 1926,
+            "year_max": 1989
+        },
+        {
+            "group_id": 23,
+            "group": "Ульяна Черкасова",
+            "mean": 3.715346081705476,
+            "count": 87436,
+            "documents_count": 6,
+            "year_min": 2021,
+            "year_max": 2024
+        },
+        {
+            "group_id": 68,
+            "group": "Александра Маринина",
+            "mean": 4.124181500703303,
+            "count": 82468,
+            "documents_count": 10,
+            "year_min": 1993,
+            "year_max": 1999
+        },
+        {
+            "group_id": 80,
+            "group": "Анатолий Рыбаков",
+            "mean": 3.8211831990195715,
+            "count": 80781,
+            "documents_count": 9,
+            "year_min": 1948,
+            "year_max": 1994
+        },
+        {
+            "group_id": 34,
+            "group": "Иван Ефремов",
+            "mean": 4.739624469115565,
+            "count": 80526,
+            "documents_count": 9,
+            "year_min": 1949,
+            "year_max": 1972
+        },
+        {
+            "group_id": 95,
+            "group": "Надежда Александровна Тэффи (Лохвицкая)",
+            "mean": 3.3249186792760885,
+            "count": 79623,
+            "documents_count": 5,
+            "year_min": 1908,
+            "year_max": 1941
+        },
+        {
+            "group_id": 84,
+            "group": "Александр Серафимович",
+            "mean": 4.117820174548407,
+            "count": 78832,
+            "documents_count": 9,
+            "year_min": 1900,
+            "year_max": 1932
+        },
+        {
+            "group_id": 89,
+            "group": "Константин Симонов",
+            "mean": 4.0076509034986545,
+            "count": 78030,
+            "documents_count": 4,
+            "year_min": 1944,
+            "year_max": 1967
+        },
+        {
+            "group_id": 82,
+            "group": "Михаил Салтыков-Щедрин",
+            "mean": 5.1086644450140986,
+            "count": 78020,
+            "documents_count": 8,
+            "year_min": 1860,
+            "year_max": 1880
+        },
+        {
+            "group_id": 104,
+            "group": "Андрей Земляной",
+            "mean": 4.103710914376669,
+            "count": 76019,
+            "documents_count": 12,
+            "year_min": 2008,
+            "year_max": 2017
+        },
+        {
+            "group_id": 19,
+            "group": "Александр Бушков",
+            "mean": 4.128422744734763,
+            "count": 73406,
+            "documents_count": 10,
+            "year_min": 1996,
+            "year_max": 2020
+        },
+        {
+            "group_id": 4,
+            "group": "Борис Акунин",
+            "mean": 3.9430695259726853,
+            "count": 67802,
+            "documents_count": 11,
+            "year_min": 1996,
+            "year_max": 2009
+        },
+        {
+            "group_id": 50,
+            "group": "Лев Кассиль",
+            "mean": 3.6811492854971117,
+            "count": 65780,
+            "documents_count": 9,
+            "year_min": 1930,
+            "year_max": 1964
+        },
+        {
+            "group_id": 72,
+            "group": "Валентина Осеева",
+            "mean": 3.60443908102163,
+            "count": 65464,
+            "documents_count": 5,
+            "year_min": 1947,
+            "year_max": 1969
+        },
+        {
+            "group_id": 87,
+            "group": "Василий Шукшин",
+            "mean": 3.0880375491564127,
+            "count": 63064,
+            "documents_count": 2,
+            "year_min": 1963,
+            "year_max": 1975
+        },
+        {
+            "group_id": 93,
+            "group": "Аркадий Стругацкий, Борис Стругацкий",
+            "mean": 3.714678709431202,
+            "count": 62887,
+            "documents_count": 10,
+            "year_min": 1960,
+            "year_max": 1982
+        },
+        {
+            "group_id": 97,
+            "group": "Иван Тургенев",
+            "mean": 3.417779673809602,
+            "count": 60946,
+            "documents_count": 5,
+            "year_min": 1849,
+            "year_max": 1948
+        },
+        {
+            "group_id": 94,
+            "group": "Александр Тамоников",
+            "mean": 3.5262664010667897,
+            "count": 60743,
+            "documents_count": 6,
+            "year_min": 2006,
+            "year_max": 2014
+        },
+        {
+            "group_id": 49,
+            "group": "Рита Хоффман",
+            "mean": 3.818465067707531,
+            "count": 58413,
+            "documents_count": 5,
+            "year_min": 2023,
+            "year_max": 2024
+        },
+        {
+            "group_id": 46,
+            "group": "Александр Грин",
+            "mean": 4.14397811259096,
+            "count": 52633,
+            "documents_count": 8,
+            "year_min": 1910,
+            "year_max": 1929
+        },
+        {
+            "group_id": 59,
+            "group": "Алексей Лосев",
+            "mean": 5.7464486991430554,
+            "count": 51812,
+            "documents_count": 10,
+            "year_min": 1927,
+            "year_max": 1989
+        },
+        {
+            "group_id": 42,
+            "group": "Джек Гельб",
+            "mean": 4.155696023015053,
+            "count": 49359,
+            "documents_count": 4,
+            "year_min": 2023,
+            "year_max": 2024
+        },
+        {
+            "group_id": 26,
+            "group": "Юрий Домбровский",
+            "mean": 3.6838679683867968,
+            "count": 47322,
+            "documents_count": 8,
+            "year_min": 1945,
+            "year_max": 1991
+        },
+        {
+            "group_id": 56,
+            "group": "Вильям Козлов",
+            "mean": 3.6423214938008983,
+            "count": 46539,
+            "documents_count": 5,
+            "year_min": 1961,
+            "year_max": 1985
+        },
+        {
+            "group_id": 85,
+            "group": "Сергей Сергеев-Ценский",
+            "mean": 4.337620203529082,
+            "count": 42844,
+            "documents_count": 4,
+            "year_min": 1905,
+            "year_max": 1942
+        },
+        {
+            "group_id": 12,
+            "group": "Александр Беляев",
+            "mean": 3.83003424175618,
+            "count": 42638,
+            "documents_count": 10,
+            "year_min": 1925,
+            "year_max": 1941
+        },
+        {
+            "group_id": 37,
+            "group": "Александр Фадеев",
+            "mean": 4.687076937744304,
+            "count": 41956,
+            "documents_count": 4,
+            "year_min": 1929,
+            "year_max": 1951
+        },
+        {
+            "group_id": 41,
+            "group": "Аркадий Гайдар",
+            "mean": 3.8648922320266164,
+            "count": 41478,
+            "documents_count": 4,
+            "year_min": 1928,
+            "year_max": 1940
+        },
+        {
+            "group_id": 101,
+            "group": "Владимир Войнович",
+            "mean": 4.118972746331237,
+            "count": 40068,
+            "documents_count": 10,
+            "year_min": 1967,
+            "year_max": 2007
+        },
+        {
+            "group_id": 107,
+            "group": "Роман Злотников, Андрей Николаев",
+            "mean": 4.528582941222346,
+            "count": 38467,
+            "documents_count": 3,
+            "year_min": 2005,
+            "year_max": 2005
+        },
+        {
+            "group_id": 3,
+            "group": "Сергей Аксаков",
+            "mean": 5.287776835858853,
+            "count": 37748,
+            "documents_count": 5,
+            "year_min": 1841,
+            "year_max": 1862
+        },
+        {
+            "group_id": 20,
+            "group": "Василь Быков",
+            "mean": 3.9575743926128206,
+            "count": 35521,
+            "documents_count": 9,
+            "year_min": 1960,
+            "year_max": 1985
+        },
+        {
+            "group_id": 38,
+            "group": "Дмитрий Фурманов",
+            "mean": 4.26046126619855,
+            "count": 35034,
+            "documents_count": 5,
+            "year_min": 1918,
+            "year_max": 1927
+        },
+        {
+            "group_id": 16,
+            "group": "Александра Бруштейн",
+            "mean": 3.9683165984511644,
+            "count": 33961,
+            "documents_count": 7,
+            "year_min": 1956,
+            "year_max": 1963
+        },
+        {
+            "group_id": 30,
+            "group": "Виктор Драгунский",
+            "mean": 3.4523529065315977,
+            "count": 33958,
+            "documents_count": 4,
+            "year_min": 1959,
+            "year_max": 1964
+        },
+        {
+            "group_id": 45,
+            "group": "Ирина Грекова",
+            "mean": 3.663452981311184,
+            "count": 33710,
+            "documents_count": 8,
+            "year_min": 1963,
+            "year_max": 1987
+        },
+        {
+            "group_id": 2,
+            "group": "Григорий Адамов",
+            "mean": 4.133499878137948,
+            "count": 32824,
+            "documents_count": 3,
+            "year_min": 1937,
+            "year_max": 1946
+        },
+        {
+            "group_id": 6,
+            "group": "Анатолий Брусникин",
+            "mean": 3.9089212392683836,
+            "count": 32148,
+            "documents_count": 3,
+            "year_min": 2007,
+            "year_max": 2012
+        },
+        {
+            "group_id": 44,
+            "group": "Даниил Гранин",
+            "mean": 3.9359929425602824,
+            "count": 30606,
+            "documents_count": 6,
+            "year_min": 1957,
+            "year_max": 2010
+        },
+        {
+            "group_id": 25,
+            "group": "Илья Деревянко",
+            "mean": 3.916330104721398,
+            "count": 27979,
+            "documents_count": 1,
+            "year_min": 2006,
+            "year_max": 2006
+        },
+        {
+            "group_id": 106,
+            "group": "Роман Злотников",
+            "mean": 4.155100380818575,
+            "count": 27047,
+            "documents_count": 3,
+            "year_min": 1999,
+            "year_max": 2006
+        },
+        {
+            "group_id": 7,
+            "group": "Юз Алешковский",
+            "mean": 4.173870296842503,
+            "count": 26445,
+            "documents_count": 6,
+            "year_min": 1980,
+            "year_max": 2000
+        },
+        {
+            "group_id": 32,
+            "group": "Станислав Дробышевский",
+            "mean": 5.102981029810298,
+            "count": 24354,
+            "documents_count": 4,
+            "year_min": 2017,
+            "year_max": 2023
+        },
+        {
+            "group_id": 78,
+            "group": "Дмитрий Регентов",
+            "mean": 3.958702675834645,
+            "count": 24142,
+            "documents_count": 5,
+            "year_min": 2006,
+            "year_max": 2015
+        },
+        {
+            "group_id": 100,
+            "group": "Ксения Власова",
+            "mean": 4.061570212400034,
+            "count": 23258,
+            "documents_count": 3,
+            "year_min": 2018,
+            "year_max": 2023
+        },
+        {
+            "group_id": 35,
+            "group": "Михаил Эпштейн",
+            "mean": 5.276906955420687,
+            "count": 22903,
+            "documents_count": 3,
+            "year_min": 1975,
+            "year_max": 2016
+        },
+        {
+            "group_id": 79,
+            "group": "Дина Рубина",
+            "mean": 4.415342054672481,
+            "count": 21327,
+            "documents_count": 3,
+            "year_min": 2018,
+            "year_max": 2019
+        },
+        {
+            "group_id": 70,
+            "group": "Кирилл Мошков",
+            "mean": 4.12666509767004,
+            "count": 21245,
+            "documents_count": 5,
+            "year_min": 2001,
+            "year_max": 2011
+        },
+        {
+            "group_id": 105,
+            "group": "Борис Житков",
+            "mean": 3.3405251951738824,
+            "count": 21135,
+            "documents_count": 5,
+            "year_min": 1927,
+            "year_max": 1939
+        },
+        {
+            "group_id": 98,
+            "group": "Эдуард Успенский",
+            "mean": 3.251771490006353,
+            "count": 20463,
+            "documents_count": 9,
+            "year_min": 1966,
+            "year_max": 2004
+        },
+        {
+            "group_id": 102,
+            "group": "Александр Волков",
+            "mean": 4.134050880626223,
+            "count": 20440,
+            "documents_count": 6,
+            "year_min": 1939,
+            "year_max": 1976
+        },
+        {
+            "group_id": 9,
+            "group": "Виктор Астафьев",
+            "mean": 4.656983464843947,
+            "count": 19897,
+            "documents_count": 4,
+            "year_min": 1965,
+            "year_max": 1998
+        },
+        {
+            "group_id": 99,
+            "group": "Екатерина Владимирова",
+            "mean": 3.7299247658529096,
+            "count": 19539,
+            "documents_count": 1,
+            "year_min": 2011,
+            "year_max": 2011
+        },
+        {
+            "group_id": 54,
+            "group": "Георгий Кнабе",
+            "mean": 5.8291897116468885,
+            "count": 18623,
+            "documents_count": 2,
+            "year_min": 1980,
+            "year_max": 1986
+        },
+        {
+            "group_id": 71,
+            "group": "Николай Носов",
+            "mean": 3.7256826184840963,
+            "count": 17323,
+            "documents_count": 5,
+            "year_min": 1949,
+            "year_max": 1965
+        },
+        {
+            "group_id": 64,
+            "group": "Казимир Малевич",
+            "mean": 5.680704668129782,
+            "count": 16859,
+            "documents_count": 3,
+            "year_min": 1920,
+            "year_max": 1924
+        },
+        {
+            "group_id": 36,
+            "group": "Алекс Экслер",
+            "mean": 4.061377423575592,
+            "count": 16814,
+            "documents_count": 5,
+            "year_min": 2000,
+            "year_max": 2012
+        },
+        {
+            "group_id": 76,
+            "group": "Софья Прокофьева",
+            "mean": 3.5947045606364245,
+            "count": 16467,
+            "documents_count": 4,
+            "year_min": 1972,
+            "year_max": 1978
+        },
+        {
+            "group_id": 10,
+            "group": "Михаил Бахтин",
+            "mean": 5.543120960295475,
+            "count": 16245,
+            "documents_count": 4,
+            "year_min": 1929,
+            "year_max": 1963
+        },
+        {
+            "group_id": 13,
+            "group": "Андрей Белянин",
+            "mean": 3.81654281098546,
+            "count": 15475,
+            "documents_count": 8,
+            "year_min": 1999,
+            "year_max": 2004
+        },
+        {
+            "group_id": 27,
+            "group": "Анастасия Доронина",
+            "mean": 3.981324945940633,
+            "count": 15261,
+            "documents_count": 1,
+            "year_min": 2007,
+            "year_max": 2007
+        },
+        {
+            "group_id": 11,
+            "group": "Виктория Баринова",
+            "mean": 3.746904713044668,
+            "count": 14619,
+            "documents_count": 1,
+            "year_min": 2007,
+            "year_max": 2007
+        },
+        {
+            "group_id": 15,
+            "group": "Марина Бонч-Осмоловская",
+            "mean": 4.249876821285282,
+            "count": 14207,
+            "documents_count": 4,
+            "year_min": 1995,
+            "year_max": 2005
+        },
+        {
+            "group_id": 86,
+            "group": "Александр Шевцов",
+            "mean": 4.658289334741288,
+            "count": 14205,
+            "documents_count": 2,
+            "year_min": 2007,
+            "year_max": 2014
+        },
+        {
+            "group_id": 92,
+            "group": "Марина Степнова",
+            "mean": 4.0188525802158805,
+            "count": 13526,
+            "documents_count": 4,
+            "year_min": 2005,
+            "year_max": 2020
+        },
+        {
+            "group_id": 75,
+            "group": "Сергей Преображенский",
+            "mean": 3.8963040550650905,
+            "count": 13366,
+            "documents_count": 4,
+            "year_min": 2000,
+            "year_max": 2011
+        },
+        {
+            "group_id": 29,
+            "group": "Сергей Довлатов",
+            "mean": 3.1201413427561837,
+            "count": 13301,
+            "documents_count": 7,
+            "year_min": 1980,
+            "year_max": 1991
+        },
+        {
+            "group_id": 1,
+            "group": "Наринэ Абгарян",
+            "mean": 4.505627843857268,
+            "count": 12527,
+            "documents_count": 7,
+            "year_min": 2011,
+            "year_max": 2022
+        },
+        {
+            "group_id": 39,
+            "group": "Георгий Гачев",
+            "mean": 4.7242641079850385,
+            "count": 12298,
+            "documents_count": 3,
+            "year_min": 1989,
+            "year_max": 2011
+        },
+        {
+            "group_id": 63,
+            "group": "Алексей Макушинский",
+            "mean": 5.108423097298251,
+            "count": 11326,
+            "documents_count": 6,
+            "year_min": 1998,
+            "year_max": 2020
+        },
+        {
+            "group_id": 109,
+            "group": "Дмитрий Самохин",
+            "mean": 4.066573816155989,
+            "count": 10770,
+            "documents_count": 1,
+            "year_min": 2015,
+            "year_max": 2015
+        },
+        {
+            "group_id": 110,
+            "group": "Юрий Ландарь",
+            "mean": 4.111338100102145,
+            "count": 10769,
+            "documents_count": 1,
+            "year_min": 2013,
+            "year_max": 2013
+        },
+        {
+            "group_id": 60,
+            "group": "Алена Любимова",
+            "mean": 4.18327721661055,
+            "count": 8910,
+            "documents_count": 1,
+            "year_min": 2007,
+            "year_max": 2007
+        },
+        {
+            "group_id": 62,
+            "group": "Ирина Лунгу",
+            "mean": 4.838789515131061,
+            "count": 8889,
+            "documents_count": 1,
+            "year_min": 2015,
+            "year_max": 2015
+        },
+        {
+            "group_id": 81,
+            "group": "Алексей Сальников",
+            "mean": 4.7685420447670905,
+            "count": 8265,
+            "documents_count": 3,
+            "year_min": 2016,
+            "year_max": 2022
+        },
+        {
+            "group_id": 67,
+            "group": "Георгий Марчик",
+            "mean": 3.9109997290707126,
+            "count": 7382,
+            "documents_count": 1,
+            "year_min": 1992,
+            "year_max": 1992
+        },
+        {
+            "group_id": 91,
+            "group": "Леонид Соловьев",
+            "mean": 4.527709802792573,
+            "count": 6947,
+            "documents_count": 1,
+            "year_min": 1956,
+            "year_max": 1956
+        },
+        {
+            "group_id": 43,
+            "group": "Александр Горелов",
+            "mean": 5.308402991641003,
+            "count": 6819,
+            "documents_count": 1,
+            "year_min": 2012,
+            "year_max": 2012
+        },
+        {
+            "group_id": 88,
+            "group": "Аркадий Шушпанов",
+            "mean": 3.531231497927768,
+            "count": 6756,
+            "documents_count": 3,
+            "year_min": 2004,
+            "year_max": 2016
+        },
+        {
+            "group_id": 5,
+            "group": "Анна Борисова",
+            "mean": 3.3478043078978126,
+            "count": 5989,
+            "documents_count": 1,
+            "year_min": 2010,
+            "year_max": 2010
+        },
+        {
+            "group_id": 47,
+            "group": "Дмитрий Гусев",
+            "mean": 5.05617198335645,
+            "count": 5768,
+            "documents_count": 2,
+            "year_min": 2003,
+            "year_max": 2008
+        },
+        {
+            "group_id": 58,
+            "group": "Михаил Лермонтов",
+            "mean": 4.723737462607778,
+            "count": 5683,
+            "documents_count": 3,
+            "year_min": 1834,
+            "year_max": 1839
+        },
+        {
+            "group_id": 33,
+            "group": "Анна Дубчак",
+            "mean": 4.1202543482326535,
+            "count": 5347,
+            "documents_count": 1,
+            "year_min": 2006,
+            "year_max": 2006
+        },
+        {
+            "group_id": 66,
+            "group": "Евгения Мамина",
+            "mean": 4.144650074452244,
+            "count": 4701,
+            "documents_count": 1,
+            "year_min": 2018,
+            "year_max": 2018
+        },
+        {
+            "group_id": 77,
+            "group": "Александр Пушкин",
+            "mean": 4.270976027397261,
+            "count": 4672,
+            "documents_count": 2,
+            "year_min": 1833,
+            "year_max": 1836
+        },
+        {
+            "group_id": 90,
+            "group": "Леонид Соловьёв",
+            "mean": 4.3705161854768155,
+            "count": 4572,
+            "documents_count": 1,
+            "year_min": 1940,
+            "year_max": 1940
+        },
+        {
+            "group_id": 69,
+            "group": "Сергей Михалков",
+            "mean": 2.890531177829099,
+            "count": 4330,
+            "documents_count": 2,
+            "year_min": 1949,
+            "year_max": 1971
+        },
+        {
+            "group_id": 73,
+            "group": "Григорий Остер",
+            "mean": 3.2368786448208833,
+            "count": 3601,
+            "documents_count": 2,
+            "year_min": 1979,
+            "year_max": 1983
+        },
+        {
+            "group_id": 8,
+            "group": "Александр Гофман",
+            "mean": 5.744340476909146,
+            "count": 3313,
+            "documents_count": 1,
+            "year_min": 1997,
+            "year_max": 1997
+        },
+        {
+            "group_id": 83,
+            "group": "Алексей Семихатов",
+            "mean": 6.148936170212766,
+            "count": 3196,
+            "documents_count": 1,
+            "year_min": 2024,
+            "year_max": 2024
+        },
+        {
+            "group_id": 40,
+            "group": "Руслан Гасымов",
+            "mean": 4.069182389937107,
+            "count": 3021,
+            "documents_count": 2,
+            "year_min": 2011,
+            "year_max": 2025
+        },
+        {
+            "group_id": 74,
+            "group": "Федор Плевако",
+            "mean": 5.6022727272727275,
+            "count": 2464,
+            "documents_count": 1,
+            "year_min": 1874,
+            "year_max": 1874
+        },
+        {
+            "group_id": 103,
+            "group": "Тамара Воротынцева",
+            "mean": 4.4137783483097985,
+            "count": 2337,
+            "documents_count": 1,
+            "year_min": 2012,
+            "year_max": 2012
+        },
+        {
+            "group_id": 48,
+            "group": "Дарья Гусятникова",
+            "mean": 6.560117302052786,
+            "count": 2046,
+            "documents_count": 1,
+            "year_min": 2009,
+            "year_max": 2009
+        },
+        {
+            "group_id": 53,
+            "group": "Мария Кирсанова, Наталья Анодина, Юрий Аксенов",
+            "mean": 5.052088452088452,
+            "count": 2035,
+            "documents_count": 1,
+            "year_min": 2023,
+            "year_max": 2023
+        },
+        {
+            "group_id": 14,
+            "group": "Оксана Бобкова",
+            "mean": 6.853697749196141,
+            "count": 1866,
+            "documents_count": 1,
+            "year_min": 2009,
+            "year_max": 2009
+        },
+        {
+            "group_id": 31,
+            "group": "Маша Рупасова, Станислав Дробышевский",
+            "mean": 3.497245179063361,
+            "count": 1452,
+            "documents_count": 1,
+            "year_min": 2020,
+            "year_max": 2020
+        },
+        {
+            "group_id": 55,
+            "group": "Анатолий Кони",
+            "mean": 5.70208183776023,
+            "count": 1393,
+            "documents_count": 1,
+            "year_min": 1872,
+            "year_max": 1872
+        },
+        {
+            "group_id": 21,
+            "group": "Александр Чечин, Николай Околелов",
+            "mean": 4.810381355932203,
+            "count": 944,
+            "documents_count": 1,
+            "year_min": 2008,
+            "year_max": 2008
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "chart_type": "bar",
+    "graph_mode": "grouped_mean",
+    "group_by": "genre",
+    "source": "document_metrics",
+    "summary": {
+        "sentences_count": 4249360,
+        "authors_count": 109,
+        "documents_count": 538,
+        "mean": 0.05561229492530733,
+        "median": 0.05551980878835587,
+        "min": 0.01691506327137848,
+        "max": 0.09855640846535105
+    },
+    "data": [
+        {
+            "group": "Роман",
+            "mean": 0.0595803797934072,
+            "count": 876095,
+            "documents_count": 103,
+            "year_min": 1833,
+            "year_max": 2024
+        },
+        {
+            "group": "Рассказ",
+            "mean": 0.06406678847022611,
+            "count": 633332,
+            "documents_count": 77,
+            "year_min": 1849,
+            "year_max": 2025
+        },
+        {
+            "group": "Повесть",
+            "mean": 0.05038083346571675,
+            "count": 532179,
+            "documents_count": 66,
+            "year_min": 1852,
+            "year_max": 2009
+        },
+        {
+            "group": "Фантастика",
+            "mean": 0.04964522694085146,
+            "count": 346751,
+            "documents_count": 46,
+            "year_min": 1925,
+            "year_max": 2024
+        },
+        {
+            "group": "Эпистолярный",
+            "mean": 0.05124141557056648,
+            "count": 240872,
+            "documents_count": 18,
+            "year_min": 1860,
+            "year_max": 1990
+        },
+        {
+            "group": "Фэнтези",
+            "mean": 0.05332613762373404,
+            "count": 228387,
+            "documents_count": 22,
+            "year_min": 1926,
+            "year_max": 2024
+        },
+        {
+            "group": "Научная фантастика",
+            "mean": 0.04838931051395572,
+            "count": 207991,
+            "documents_count": 28,
+            "year_min": 1925,
+            "year_max": 2019
+        },
+        {
+            "group": "Детектив",
+            "mean": 0.05321723178873384,
+            "count": 181693,
+            "documents_count": 26,
+            "year_min": 1969,
+            "year_max": 2009
+        },
+        {
+            "group": "Пьеса",
+            "mean": 0.03050930777096326,
+            "count": 118080,
+            "documents_count": 7,
+            "year_min": 1883,
+            "year_max": 1982
+        },
+        {
+            "group": "Сатира",
+            "mean": 0.057687204398587086,
+            "count": 117963,
+            "documents_count": 11,
+            "year_min": 1870,
+            "year_max": 2007
+        },
+        {
+            "group": "Автобиография",
+            "mean": 0.05949651762324499,
+            "count": 116752,
+            "documents_count": 15,
+            "year_min": 1856,
+            "year_max": 1994
+        },
+        {
+            "group": "Сказка",
+            "mean": 0.05023793280313482,
+            "count": 113448,
+            "documents_count": 33,
+            "year_min": 1884,
+            "year_max": 2004
+        },
+        {
+            "group": "Любовный роман",
+            "mean": 0.04693345676399921,
+            "count": 87667,
+            "documents_count": 9,
+            "year_min": 1992,
+            "year_max": 2019
+        },
+        {
+            "group": "Юмор",
+            "mean": 0.049527526886484693,
+            "count": 78862,
+            "documents_count": 8,
+            "year_min": 1908,
+            "year_max": 2012
+        },
+        {
+            "group": "Учебная литература",
+            "mean": 0.06587037775112406,
+            "count": 76888,
+            "documents_count": 14,
+            "year_min": 1924,
+            "year_max": 2023
+        },
+        {
+            "group": "Статья",
+            "mean": 0.06485557710809206,
+            "count": 68803,
+            "documents_count": 10,
+            "year_min": 1841,
+            "year_max": 1982
+        },
+        {
+            "group": "Монография",
+            "mean": 0.06477603615168856,
+            "count": 66878,
+            "documents_count": 18,
+            "year_min": 1872,
+            "year_max": 2011
+        },
+        {
+            "group": "Антиутопия",
+            "mean": 0.05490885329441455,
+            "count": 39680,
+            "documents_count": 4,
+            "year_min": 1968,
+            "year_max": 1987
+        },
+        {
+            "group": "Научно-популярная литература",
+            "mean": 0.058922916433754816,
+            "count": 36567,
+            "documents_count": 8,
+            "year_min": 1980,
+            "year_max": 2024
+        },
+        {
+            "group": "Роман-эпопея",
+            "mean": 0.06724187172858956,
+            "count": 32608,
+            "documents_count": 4,
+            "year_min": 1865,
+            "year_max": 1869
+        },
+        {
+            "group": "Эссе",
+            "mean": 0.08157264436417662,
+            "count": 25860,
+            "documents_count": 7,
+            "year_min": 1975,
+            "year_max": 2020
+        },
+        {
+            "group": "Путевые заметки",
+            "mean": 0.07696092836604007,
+            "count": 22004,
+            "documents_count": 4,
+            "year_min": 1883,
+            "year_max": 2000
+        }
+    ]
+}
