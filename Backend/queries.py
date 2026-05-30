@@ -11,7 +11,7 @@ from sqlalchemy import (
     literal,
 )
 
-from db import metadata
+from db import get_table
 
 EXCLUDED_METRIC_COLUMNS = {
     "sentence_id",
@@ -45,12 +45,12 @@ FULL_YEAR_TO = 2025
 
 def get_tables():
     return {
-        "authors": metadata.tables["authors"],
-        "documents": metadata.tables["documents"],
-        "sentences": metadata.tables["sentences"],
-        "tokens": metadata.tables["tokens"],
-        "sentence_metrics": metadata.tables["sentence_metrics"],
-        "document_metrics": metadata.tables["document_metrics"],
+        "authors": get_table("authors"),
+        "documents": get_table("documents"),
+        "sentences": get_table("sentences"),
+        "tokens": get_table("tokens"),
+        "sentence_metrics": get_table("sentence_metrics"),
+        "document_metrics": get_table("document_metrics"),
     }
 
 
