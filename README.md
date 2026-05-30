@@ -9,6 +9,7 @@ It contains:
 In the project root, create `.env` with:
 
 ```DATABASE_URL=postgresql+psycopg://postgres:YOUR_PASSWORD@YOUR_SERVER_IP:5432/russian_authors```
+
 ```DB_SCHEMA=corpus```
 
 In the `Frontend` folder, create `.env` with:
