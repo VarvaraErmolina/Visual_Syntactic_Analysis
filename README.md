@@ -12,10 +12,6 @@ In the project root, create `.env` with:
 
 ```DB_SCHEMA=corpus```
 
-In the `Frontend` folder, create `.env` with:
-
-```VITE_API_BASE_URL=http://YOUR_SERVER_IP```
-
 To run the project, open a terminal in the project root (where `docker-compose.yml` is located) and execute:
 
 ```docker compose up --build```
